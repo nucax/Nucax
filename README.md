@@ -4,6 +4,7 @@ I’m a hobby coder from Germany who loves working with **Python** and **Lua**.
 Mostly building fun and experimental projects — sometimes useful, sometimes just for the challenge.  
 ![Visitors](https://komarev.com/ghpvc/?username=nucax&color=blueviolet)
 ![OS](https://img.shields.io/badge/OS-Linux-informational?logo=linux&color=yellow)
+![Followers](https://img.shields.io/github/followers/nucax?label=Followers&style=flat&color=brightgreen)
 ---
 
 ## 🚀 My Projects
