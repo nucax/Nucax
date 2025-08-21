@@ -44,4 +44,4 @@ Here are the projects I'm currently showcasing (from my GitHub pinned repos):
 
 ## 🎥 Gifs
 ![Hello Kitty](./7B1398E7-BE88-48DB-8A6A-921CE4EC3347.gif)
-[Sun Set](./1B146753-C46B-4270-9886-0B0B0CB74814.gif)
+![Sun Set](./1B146753-C46B-4270-9886-0B0B0CB74814.gif)
