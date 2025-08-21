@@ -25,7 +25,7 @@ Mostly building fun and experimental projects — sometimes useful, sometimes ju
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nucax&layout=compact&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nucax&theme=tokyo-night)
 ![Streak](https://streak-stats.demolab.com?user=nucax&theme=tokyonight)
-![OS](https://img.shields.io/badge/OS-Linux-informational?logo=linux&color=yellow)
+![Visitors](https://komarev.com/ghpvc/?username=nucax&color=blueviolet)
 
 ---
 
