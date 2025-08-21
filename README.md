@@ -6,6 +6,8 @@ Mostly building fun and experimental projects — sometimes useful, sometimes ju
 ![OS](https://img.shields.io/badge/OS-Linux-informational?logo=linux&color=yellow)
 ![Followers](https://img.shields.io/github/followers/nucax?label=Followers&style=flat&color=brightgreen)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 
 ---
 
