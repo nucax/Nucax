@@ -40,3 +40,7 @@ Here are the projects I'm currently showcasing (from my GitHub pinned repos):
 ##  Connect with Me  
 - Discord: [Click Here](https://discord.gg/3kwTV3SxV)  
 - Location: Germany
+
+
+## 🎥 Gifs
+![Cool Demo](./cool.gif)
