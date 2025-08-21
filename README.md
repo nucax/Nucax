@@ -4,14 +4,12 @@ I’m a hobby coder from Germany who loves working with **Python** and **Lua**.
 Mostly building fun and experimental projects — sometimes useful, sometimes just for the challenge.  
 ![Visitors](https://komarev.com/ghpvc/?username=nucax&color=blueviolet)  
 ![OS](https://img.shields.io/badge/OS-Linux-informational?logo=linux&color=yellow)  
-![Downloads](https://img.shields.io/github/downloads/USERNAME/nucax/total)
-![Last Commit](https://img.shields.io/github/last-commit/USERNAME/nucax)
 ![Followers](https://img.shields.io/github/followers/nucax?label=Followers&style=flat&color=brightgreen)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
-![Batch](https://img.shields.io/badge/Language-Batch-green?logo=windows-terminal&logoColor=white)
-![VBScript](https://img.shields.io/badge/Language-VBScript-orange?logo=visualstudio&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)  
+![Batch](https://img.shields.io/badge/Language-Batch-green?logo=windows-terminal&logoColor=white)  
+![VBScript](https://img.shields.io/badge/Language-VBScript-orange?logo=visualstudio&logoColor=white)  
 
 
 ---
