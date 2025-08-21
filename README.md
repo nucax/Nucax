@@ -43,4 +43,4 @@ Here are the projects I'm currently showcasing (from my GitHub pinned repos):
 
 
 ## 🎥 Gifs
-![Cool Demo](./cool.gif)
+![Cool Demo](./7B1398E7-BE88-48DB-8A6A-921CE4EC3347.gif)
