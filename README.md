@@ -5,6 +5,8 @@ Mostly building fun and experimental projects — sometimes useful, sometimes ju
 ![Visitors](https://komarev.com/ghpvc/?username=nucax&color=blueviolet)
 ![OS](https://img.shields.io/badge/OS-Linux-informational?logo=linux&color=yellow)
 ![Followers](https://img.shields.io/github/followers/nucax?label=Followers&style=flat&color=brightgreen)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
 ---
 
 ## 🚀 My Projects
