@@ -1,4 +1,4 @@
-# Hi there, I'm Nucax 👋
+# I'm Nucax 
 
 I’m a hobby coder from Germany who loves working with **Python** and **Lua**.  
 Mostly building fun and experimental projects — sometimes useful, sometimes just for the challenge.  
@@ -11,15 +11,8 @@ Mostly building fun and experimental projects — sometimes useful, sometimes ju
 ![Batch](https://img.shields.io/badge/Language-Batch-green?logo=windows-terminal&logoColor=white)  
 ![VBScript](https://img.shields.io/badge/Language-VBScript-orange?logo=visualstudio&logoColor=white)  
 
-
----
-
-##  My Projects  
-Here are the projects I'm currently showcasing (from my GitHub pinned repos):  
-- **[KuromiX](https://github.com/nucax/KuromiX)** — Roblox exploit script with a custom UI  
-- **[Sharkbite-1-Script](https://github.com/nucax/Sharkbite-1-Script)** — ESP, teleportation, and other features for Sharkbite  
-- **[Anti-operagx-setup](https://github.com/nucax/Anti-operagx-setup)** — Python project  
-- **[Hydra](https://github.com/nucax/Hydra)** — VBScript automation tool  
+##  Some Projects  
+- **[KuromiX](https://github.com/nucax/KuromiX)** — Roblox script with a custom UI
 - **[FrittenKaese-esp-script-lua](https://github.com/nucax/FrittenKaese-esp-script-lua)** — Lua ESP script  
 - **[Loadstring-creator-python](https://github.com/nucax/Loadstring-creator-python)** — Python loadstring generator  
 - **[roblox-lua-aimbot-universal](https://github.com/nucax/roblox-lua-aimbot-universal)** — Universal Roblox aimbot in Lua  
@@ -27,7 +20,7 @@ Here are the projects I'm currently showcasing (from my GitHub pinned repos):
 ---
 
 ##  Languages & Tools  
-- **Languages:** Python, Lua, VBScript  
+- **Languages:** Python and Lua
 - **Tools & Frameworks:** Roblox Studio, Rayfield UI, JSON, Git
 
 ---
@@ -39,11 +32,6 @@ Here are the projects I'm currently showcasing (from my GitHub pinned repos):
 ![Streak](https://streak-stats.demolab.com?user=nucax&theme=tokyonight)
 
 ---
-
-##  Connect with Me  
-- Discord: [Click Here](https://discord.gg/3kwTV3SxV)  
-- Location: Germany
-
 
 ## 🎥 Gifs
 ![Sun Set](./1B146753-C46B-4270-9886-0B0B0CB74814.gif)
