@@ -18,10 +18,5 @@ I like these
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nucax&theme=tokyo-night)  
 ![Streak](https://streak-stats.demolab.com?user=nucax&theme=tokyonight)
 
----
-
-## Gifs cool
+## cool
 ![Sun Set](./1B146753-C46B-4270-9886-0B0B0CB74814.gif)
-![Fish Pond](./7848173D-FBD2-4E15-AE0E-249CDDAB8AE8.gif)
-![cinamon roll](./C4887F6B-BE8B-4800-A644-AE0D3C3F9DBF.gif)
-![Hello Kitty](./7B1398E7-BE88-48DB-8A6A-921CE4EC3347.gif)
